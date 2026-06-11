@@ -1,4 +1,4 @@
-# Atomy.py
+# MicroJet
 
 A Python-first web framework project scaffold.
 
