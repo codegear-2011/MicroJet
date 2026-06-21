@@ -8,14 +8,12 @@
 > একটি হালকা, দ্রুত এবং React-এর মত কম্পোনেন্ট সিস্টেম সহ Python ওয়েব ফ্রেমওয়ার্ক
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║              🌟 MicroJet Framework 🌟                      ║
-║           NOTE:This project is in under construction,
+         🌟 MicroJet Framework
+NOTE:This project is in under construction,
 so please do not use it now.
 (We will let you know when
-it will be available here.)            ║
-║                                        ║
-╚════════════════════════════════════════════════════════════╝
+it will be available here.)            
+
 ```
 
 ## 📋 বিষয়বস্তু
