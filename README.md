@@ -385,8 +385,8 @@ MIT License - সম্পূর্ণ স্বাধীনতা!
 
 ## 🌟 বিশেষ ধন্যবাদ
 
-এই প্রজেক্টটি অনুপ্রাণিত হয়েছে:
-- **Bottle.py** এর সরলতা দ্বারা
+এই প্রজেক্টটি অনুপ্রাণিত হয়েছে
+
 - **React.js** এর কম্পোনেন্ট আর্কিটেকচার দ্বারা
 - **Python** এর নমনীয়তা দ্বারা
 
@@ -400,7 +400,11 @@ MIT License - সম্পূর্ণ স্বাধীনতা!
 - 🌐 Website: https://microjet.dev
 
 ---
-
+## Contributor
+<a href="https://github.com/codegear-2011/MicroJet/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codegear-2011/MicroJet" />
+</a>
+---
 <div align="center">
 
 ### 🚀 MicroJet দিয়ে আপনার পরবর্তী বড় প্রজেক্ট তৈরি করুন!
